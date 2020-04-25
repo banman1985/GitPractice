@@ -1,2 +1,2 @@
-# My Git Project
+# Gittin' Some Practice
 ## Brian Nelson
